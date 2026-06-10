@@ -1,0 +1,8 @@
+Coloque aqui seu currículo em PDF e certificados.
+
+Sugestão:
+- curriculo-arley-matos.pdf
+- certificado-ieee.pdf
+- artigo-imte.pdf
+
+Depois, adicione links para esses arquivos nas páginas do site.

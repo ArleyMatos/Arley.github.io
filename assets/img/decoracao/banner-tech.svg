@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e9f8ff"/>
+      <stop offset="0.52" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eaf8ff"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#052f5f"/>
+      <stop offset="1" stop-color="#00a8e8"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#00a8e8" stroke-width="0.8" opacity="0.18"/>
+    </pattern>
+    <radialGradient id="rad" cx="50%" cy="45%" r="45%">
+      <stop offset="0" stop-color="#00a8e8" stop-opacity="0.22"/>
+      <stop offset="0.8" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g1)"/>
+  <rect width="1600" height="900" fill="url(#grid)" opacity="0.8"/>
+  <ellipse cx="760" cy="390" rx="520" ry="210" fill="none" stroke="#052f5f" stroke-opacity="0.06" stroke-width="2"/>
+  <ellipse cx="760" cy="390" rx="380" ry="155" fill="none" stroke="#00a8e8" stroke-opacity="0.13" stroke-width="2"/>
+  <ellipse cx="760" cy="390" rx="240" ry="100" fill="url(#rad)"/>
+  <path d="M34 110h220l66 77h96" fill="none" stroke="#052f5f" stroke-width="7" stroke-linecap="round" opacity="0.82"/>
+  <path d="M118 90l60 70-20 88 106 30" fill="none" stroke="#005b96" stroke-width="4" opacity="0.6"/>
+  <circle cx="417" cy="187" r="7" fill="#00a8e8"/>
+  <path d="M1365 0h235v900h-340l85-160V220z" fill="#052f5f" opacity="0.95"/>
+  <path d="M1400 0h200v900h-260l72-160V210z" fill="#005b96" opacity="0.78"/>
+  <path d="M1278 120h74l54 60h50" fill="none" stroke="#00a8e8" stroke-width="5" stroke-linecap="round" opacity="0.9"/>
+  <path d="M1298 188h88l42 45v96" fill="none" stroke="#75dcff" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <path d="M1470 80v220m42-190v255m-92 110h-140" stroke="#00a8e8" stroke-width="5" opacity="0.44"/>
+  <circle cx="1280" cy="475" r="8" fill="none" stroke="#00a8e8" stroke-width="4"/>
+  <circle cx="1470" cy="302" r="7" fill="#75dcff"/>
+  <path d="M0 680c220-72 442-42 665 90s445 152 668 36c111-58 202-86 267-83v177H0z" fill="#e9f6fb" opacity="0.65"/>
+</svg>
